@@ -13,14 +13,14 @@ export default function Footer() {
                 </div>
                 <div className="flex flex-col items-center lg:flex-row">
                     <ul className="text-center flex flex-col gap-[.5rem] mb-[.5rem] lg:mb-[0] lg:w-[7rem] lg:text-left xl:w-[10rem]">
-                        <li><a href="" className="text-white hover:text-[#30c88f] transition leading-[1.73]">About Us</a></li>
-                        <li><a href="" className="text-white hover:text-[#30c88f] transition leading-[1.73]">Contact</a></li>
-                        <li><a href="" className="text-white hover:text-[#30c88f] transition leading-[1.73]">Blog</a></li>
+                        <li><a href="#" className="text-white hover:text-[#30c88f] transition leading-[1.73]">About Us</a></li>
+                        <li><a href="#" className="text-white hover:text-[#30c88f] transition leading-[1.73]">Contact</a></li>
+                        <li><a href="#" className="text-white hover:text-[#30c88f] transition leading-[1.73]">Blog</a></li>
                     </ul>
                     <ul className="text-center flex flex-col gap-[.5rem] lg:w-[7rem] lg:text-left xl:w-[10rem]">
-                        <li><a href="" className="text-white hover:text-[#30c88f] transition leading-[1.73]">Careers</a></li>
-                        <li><a href="" className="text-white hover:text-[#30c88f] transition leading-[1.73]">Support</a></li>
-                        <li><a href="" className="text-white hover:text-[#30c88f] transition leading-[1.73]">Privacy Policy</a></li>
+                        <li><a href="#" className="text-white hover:text-[#30c88f] transition leading-[1.73]">Careers</a></li>
+                        <li><a href="#" className="text-white hover:text-[#30c88f] transition leading-[1.73]">Support</a></li>
+                        <li><a href="#" className="text-white hover:text-[#30c88f] transition leading-[1.73]">Privacy Policy</a></li>
                     </ul>
                 </div>
                 <div className="flex flex-col items-center gap-[1.5rem] lg:ml-auto">
